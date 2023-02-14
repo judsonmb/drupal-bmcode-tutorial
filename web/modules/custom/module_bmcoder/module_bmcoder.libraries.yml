@@ -1,0 +1,4 @@
+module_bmcoder-style:
+  css:
+    theme:
+      css/main.css: {}

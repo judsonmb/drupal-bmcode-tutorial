@@ -1,0 +1,4 @@
+services:
+  module_bmcoder.bmcoder_articles:
+    class: Drupal\module_bmcoder\BmcoderArticleService
+    arguments: ['@entity_type.manager']

@@ -1,0 +1,4 @@
+name: "BM coder Module"
+description: "Welcome to BM coder"
+type: module
+core_version_requirement: ^8.8 || ^9
